@@ -1,5 +1,5 @@
 
-Here is a README file in paragraph form for your Simon Game application:
+
 
 Simon Game
 This project is a web-based implementation of the classic Simon game, where players test their memory by replicating increasingly complex sequences of colors. The game utilizes HTML, CSS, and JavaScript, with jQuery for handling events and animations. When the game begins, players are prompted to press a key to start, and the game generates a random sequence of colors using the four colored buttons (red, blue, green, and yellow). Players must then click the buttons in the correct order to match the sequence. As each round is successfully completed, a new color is added to the sequence, increasing the difficulty.
